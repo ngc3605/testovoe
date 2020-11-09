@@ -11,4 +11,3 @@ $router->run();
 
 // $obj = new App\controllers\MessageController;
 
-// $obj->viewAll();
