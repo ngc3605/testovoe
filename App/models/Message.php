@@ -44,6 +44,7 @@ class Message extends \App\core\Model {
 		$db->addRow(['title' => $title, 'preview' => $preview, 'content' => $content, 'author' => $author], $sql, static::class);
 
 	}
+	
 
 
 	
